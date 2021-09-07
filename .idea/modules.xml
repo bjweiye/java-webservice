@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_jaxws_server/01_jaxws_server.iml" filepath="$PROJECT_DIR$/01_jaxws_server/01_jaxws_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_jaxws_client/02_jaxws_client.iml" filepath="$PROJECT_DIR$/02_jaxws_client/02_jaxws_client.iml" />
+    </modules>
+  </component>
+</project>
